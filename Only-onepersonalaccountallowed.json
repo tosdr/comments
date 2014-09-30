@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Only-onepersonalaccountallowed",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "facebook"
+  ],
+  "title": "Only one personal account allowed",
+  "tosdr": {
+    "point": "bad",
+    "tldr": " You cannot create more than one personal account."
+  }
+}

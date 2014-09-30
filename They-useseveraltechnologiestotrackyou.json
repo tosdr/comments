@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "They-useseveraltechnologiestotrackyou",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "facebook"
+  ],
+  "title": "They use several technologies to track you",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "Facebook uses a set of technologies to track you. They store information about you and your use of Facebook. They know when you are logged in, when you interact with their advertising or platform partners."
+  }
+}

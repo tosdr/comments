@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Limited-copyrightlicensegrantedbyyou",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "vimeo"
+  ],
+  "title": "Limited copyright license granted by you",
+  "tosdr": {
+    "point": "good",
+    "tldr": "The copyright license you grant them on your content is not transferable, not sublicensable, and limited for express and reasonable purposes of providing the service."
+  }
+}

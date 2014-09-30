@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Data-transferredtotheUS",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "facebook"
+  ],
+  "title": "Data transferred to the US",
+  "tosdr": {
+    "point": "neutral",
+    "tldr": " "
+  }
+}

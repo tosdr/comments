@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "You-canappealcontenttakedown",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "facebook"
+  ],
+  "title": "You can appeal content takedown",
+  "tosdr": {
+    "point": "good",
+    "tldr": "When your content is taken down for copyright reasons, you are given an opportunity to appeal the takedown of your content."
+  }
+}

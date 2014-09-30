@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "They-canuseyourinformationalsoforfutureservices",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "facebook"
+  ],
+  "title": "They can use your information also for future services",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "“Granting us permission to use your information not only allows us to provide Facebook as it exists today, but it also allows us to provide you with innovative features and services we develop in the future that use the information we receive about you in new ways.”"
+  }
+}

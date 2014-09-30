@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Facebook-usesyourdataformanypurposes",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "facebook"
+  ],
+  "title": "Facebook uses your data for many purposes",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "Facebook uses your data for many purposes, including data analysis, testing, service improvement, control of the effectiveness of the personal ads, and location features and current or future services. \n\nDiscussion: https://groups.google.com/d/msg/tosdr/iB6eKxyNRRU/nW5WT6o9T9cJ"
+  }
+}
