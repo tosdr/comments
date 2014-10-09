@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Ello-maysharepersonalinformationwiththirdparties",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "ello"
+  ],
+  "title": "Ello may share personal information with third parties",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "“Ello does not have any affiliated companies right now. But if we do in the future, we may share some information with them.”\n\nThey may share some of your personal information with third parties “under several circumstances”."
+  }
+}

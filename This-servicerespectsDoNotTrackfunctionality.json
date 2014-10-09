@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "This-servicerespectsDoNotTrackfunctionality",
+  "meta": {
+    "author": "dave@plml.org"
+  },
+  "services": [
+    "ello"
+  ],
+  "title": "This service respects Do Not Track functionality.",
+  "tosdr": {
+    "point": "good",
+    "tldr": "Do Not Track functionality and policy enables users to opt-out of tracking by websites and other entities. Users should anticipate that their usage is not tracked by websites that respect this functionality. "
+  }
+}

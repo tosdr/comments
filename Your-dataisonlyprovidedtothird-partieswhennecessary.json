@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Your-dataisonlyprovidedtothird-partieswhennecessary",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "linkedin"
+  ],
+  "title": "Your data is only provided to third-parties when necessary",
+  "tosdr": {
+    "point": "good",
+    "tldr": "“We protect your personal information and will only provide it to third parties: (1) with your consent; (2) where it is necessary to carry out your instructions; (3) as reasonably necessary in order to provide our features and functionality to you; (4) when we reasonably believe it is required by law, subpoena or other legal process; or (5) as necessary to enforce our User Agreement or protect the rights, property, or safety of LinkedIn, our Members and Visitors, and the public.”"
+  }
+}

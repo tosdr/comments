@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Ello-mayresistrequeststoaccessyourinformation",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "ello"
+  ],
+  "title": "Ello may resist requests to access your information  ",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "“We will do our best to resist requests to access information that we believe are not justified. Ello's policy is to give you advance notice if we are going to release your information unless by law we are prohibited from doing so. If we think that disclosing your information may prevent serious harm to Ello, its users, you, or anyone else for that matter, we may do so without notifying you.”"
+  }
+}

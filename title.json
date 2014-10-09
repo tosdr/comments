@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "title",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "google"
+  ],
+  "title": "title",
+  "tosdr": {
+    "point": "good",
+    "tldr": "summary"
+  }
+}

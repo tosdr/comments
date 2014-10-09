@@ -6,11 +6,11 @@
     "author": "hugo@tosdr.org"
   },
   "services": [
-    "facebook"
+    "linkedin"
   ],
   "title": "Jurisdiction: United States of America, Laws of California",
   "tosdr": {
     "point": "neutral",
-    "tldr": "“\n    You will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or Facebook exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such claims. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.”"
+    "tldr": "“In the unlikely event we end up in a legal dispute, it will take place in California courts, applying California law.”"
   }
 }

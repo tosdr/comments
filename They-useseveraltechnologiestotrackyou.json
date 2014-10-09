@@ -1,16 +1,21 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "content": "Maybe this could be merged with this:\n\n.10. Log Files, IP Addresses, and Information About Your Computer and Mobile Device\n\nWe collect information from the devices and networks that you use to access our Services.\n\nWhen you visit or leave our Services (whether as a Member or Visitor) by clicking a hyperlink or when you view a third-party site that includes our plugin or cookies (or similar technology), we automatically receive the URL of the site from which you came or the one to which you are directed. Also, advertisers receive the URL of the page that you are on when you click an ad on or through our Services. We also receive the internet protocol (“IP”) address of your computer or the proxy server that you use to access the web, your computer operating system details, your type of web browser, your mobile device (including your mobile device identifier provided by your mobile device operating system), your mobile operating system (if you are accessing LinkedIn using a mobile device), and the name of your ISP or your mobile carrier. We may also receive location data passed to us from third-party services or GPS-enabled devices that you have set up, which we use to show you local information (for example, Pulse articles about your area or jobs postings in your location) on our mobile applications and for fraud prevention and security purposes. Most mobile devices allow you to prevent real time location data being sent to us, and of course we will honor your settings.\n\nIn the case of our Android apps, you will be provided notice of the types of data (e.g. location) that will be sent to us. If you choose to use our app after this notice, we process this data to enable registration or preview product features for you (e.g. jobs near you). If you choose not to become a Member, we will delete this information.\n",
+      "author": "hugo@tosdr.org"
+    }
+  ],
   "discussion": "form",
   "id": "They-useseveraltechnologiestotrackyou",
   "meta": {
     "author": "hugo@tosdr.org"
   },
   "services": [
-    "facebook"
+    "linkedin"
   ],
   "title": "They use several technologies to track you",
   "tosdr": {
     "point": "bad",
-    "tldr": "Facebook uses a set of technologies to track you. They store information about you and your use of Facebook. They know when you are logged in, when you interact with their advertising or platform partners."
+    "tldr": "“As described in our Cookie Policy, we use cookies and similar technologies, including mobile application identifiers, to help us recognize you across different Services, learn about your interests both on and off our Services, improve your experience, increase security, measure use and effectiveness of our Services, and serve advertising. You can control cookies through your browser settings and other tools. By visiting our Services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this Privacy Policy, which incorporates by reference our Cookie Policy.”"
   }
 }

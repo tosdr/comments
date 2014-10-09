@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Inforation-Ellocollects",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "ello"
+  ],
+  "title": "Inforation Ello collects",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "“When you visit Ello, we may collect information about what pages you access, the device that you are using, information that you send to us directly or post on our web site or on your page, and the address of web sites that refer you to Ello. We also store the name and email address that you enter when you register for an account or contact us directly.”"
+  }
+}

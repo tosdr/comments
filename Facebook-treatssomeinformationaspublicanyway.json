@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Facebook-treatssomeinformationaspublicanyway",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "facebook"
+  ],
+  "title": "Facebook treats some information as public anyway",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "“Your name, profile pictures, cover photos, gender, networks, username and User ID are treated just like information you choose to make public.”"
+  }
+}

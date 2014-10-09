@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Ello-makesnopromisetodeleteyourdatewhenyouleave",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "ello"
+  ],
+  "title": "Ello makes no promise to delete your date when you leave",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "“Therefore, even after you delete your account, your data may remain in backups on our system, although it will be no longer visible or publicly accessible on Ello.”"
+  }
+}

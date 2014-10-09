@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Data-transferredwherever",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "linkedin"
+  ],
+  "title": "Data transferred wherever",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "“2.17 Data Processing Outside Your Country\n\nWe may process your information outside the country where you live.\n\nWe may transfer your information and process it outside your country of residence, wherever LinkedIn, its affiliates and service providers operate.”"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "They-trackyouonotherwebsites",
+  "meta": {
+    "author": "hugo@tosdr.org"
+  },
+  "services": [
+    "linkedin"
+  ],
+  "title": "They track you on other web sites",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "They use “social plugins” on third-party websites to “personalize” your experience or make “tailored content”.\n\n“You also allow us to receive information about your visits and interaction with the sites and services of our partners that include our cookies and similar technologies, unless you <a href=\"https://www.linkedin.com/settings/?tab=account&modal=nsettings-enhanced-advertising>opt-out</a>.”"
+  }
+}

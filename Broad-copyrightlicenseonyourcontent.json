@@ -1,0 +1,17 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Broad-copyrightlicenseonyourcontent",
+  "meta": {
+    "author": "dave@plml.org"
+  },
+  "services": [
+    "ello",
+    ""
+  ],
+  "title": "Broad copyright license on your content.",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "Ello reserves the right to use content posted to the site \"without limitation\", including the right to \"display, store, reproduce, and distribute it\".  "
+  }
+}
