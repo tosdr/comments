@@ -1,0 +1,17 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "No-explicitrightforuserstoaccesspersonalinformationorrequestcorrectionordeletion",
+  "meta": {
+    "author": "andylopata@gmail.com"
+  },
+  "services": [
+    "Netflix.com",
+    ""
+  ],
+  "title": "No explicit right for users to access personal information or request correction or deletion",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "The \"Right to Access Your Information\" paragraph in Netflix's Privacy Policy implies that accessing your information is only available through the \"'Your Account' portion of our website.\" A provision in their Privacy Policy which allowed explicit requests to access, correct, and delete a user's personal information was deleted on 09-14-2012, and replaced with \"If you have a question regarding our privacy practices, or want to exercise your rights regarding your personal information, please contact us at pr...@netflix.com\""
+  }
+}

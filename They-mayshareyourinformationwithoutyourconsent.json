@@ -1,0 +1,17 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "They-mayshareyourinformationwithoutyourconsent",
+  "meta": {
+    "author": "ujwalcc@hotmail.com"
+  },
+  "services": [
+    "Microsoft Account",
+    ""
+  ],
+  "title": "They may share your information without your consent",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "Microsoft will share your your to other Microsoft affiliates and vendors. They may also share your information when the law asks for it."
+  }
+}
