@@ -1,0 +1,17 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Clever-willonlytransferdatatocompanieswithequallyprotectiveprivacypolicies",
+  "meta": {
+    "author": "abby.colella@gmail.com"
+  },
+  "services": [
+    "Clever",
+    ""
+  ],
+  "title": "Clever will only transfer data to companies with equally protective privacy policies",
+  "tosdr": {
+    "point": "good",
+    "tldr": "Clever may transfer personal information as a business asset, but will only do so if the new provider “has agreed to data privacy standards no less stringent than [their] own.”\n\nThis is positive, though it is unclear whether the new provider would also need to maintain Clever’s specified data security standards. \n\nAdditionally, it isn't clear who would decide whether the new provider's policies are sufficiently stringent or how that determination would be made."
+  }
+}

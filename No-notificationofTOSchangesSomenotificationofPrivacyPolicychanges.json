@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "No-notificationofTOSchangesSomenotificationofPrivacyPolicychanges",
+  "meta": {
+    "author": "abby.colella@gmail.com"
+  },
+  "services": [
+    "Clever"
+  ],
+  "title": "No notification of TOS changes; Some notification of Privacy Policy changes",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "Clever can modify its Terms of Service at any time without notice. By continuing to use the service after the date of change, the School agrees to be bound by the changed provisions. \n\nClever will notify users when the privacy policy changes “in a material manner.” "
+  }
+}

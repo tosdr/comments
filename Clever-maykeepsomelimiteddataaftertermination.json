@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Clever-maykeepsomelimiteddataaftertermination",
+  "meta": {
+    "author": "abby.colella@gmail.com"
+  },
+  "services": [
+    "Clever"
+  ],
+  "title": "Clever may keep some, limited data after termination",
+  "tosdr": {
+    "point": "neutral",
+    "tldr": "Clever deletes all “student data” within 72 hours of the School terminating service, but may keep the School’s profile content for a “commercially reasonable time for backup, archival, or audit purposes.”\n\nClever may also keep “anonymized or aggregated data, including usage data.” It is unclear whether this includes de-identified student data or how data would be anonymized. "
+  }
+}

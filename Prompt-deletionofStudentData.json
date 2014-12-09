@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Prompt-deletionofStudentData",
+  "meta": {
+    "author": "abby.colella@gmail.com"
+  },
+  "services": [
+    "Clever"
+  ],
+  "title": "Prompt deletion of Student Data. ",
+  "tosdr": {
+    "point": "good",
+    "tldr": "A school may terminate its relationship with Clever at any time and Clever will destroy any stored student information within 72 hours. \n\n\"School may, at any time, terminate relationship with Clever by providing written notice. Within 72 hours of receipt of notice of termination, Clever shall cease accessing the School's SIS and destroy any stored student information.\""
+  }
+}

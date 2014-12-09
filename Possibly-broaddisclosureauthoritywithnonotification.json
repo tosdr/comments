@@ -1,0 +1,16 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "Possibly-broaddisclosureauthoritywithnonotification",
+  "meta": {
+    "author": "abby.colella@gmail.com"
+  },
+  "services": [
+    "Clever"
+  ],
+  "title": "Possibly broad disclosure authority with no notification",
+  "tosdr": {
+    "point": "bad",
+    "tldr": "Clever may disclose personal information to law enforcement “or other third parties” if compelled by law or if “we believe in good faith that disclosure is necessary to protect the rights, property, or personal safety of our users.” \n\nThese terms are broader than many and it is unclear whether this “personal information” includes protected student data. The Privacy Policy does not provide for notification. "
+  }
+}
