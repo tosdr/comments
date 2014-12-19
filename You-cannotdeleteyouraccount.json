@@ -1,0 +1,17 @@
+{
+  "comments": [],
+  "discussion": "form",
+  "id": "You-cannotdeleteyouraccount",
+  "meta": {
+    "author": "andrea.lo.presti.97@icloud.com"
+  },
+  "services": [
+    "wikipedia",
+    ""
+  ],
+  "title": "You cannot delete your account",
+  "tosdr": {
+    "point": "blocker",
+    "tldr": "\"Due to all contributions being licensed under the CC BY-SA 3.0 License and the GFDL, it is not possible to delete an account.\""
+  }
+}
